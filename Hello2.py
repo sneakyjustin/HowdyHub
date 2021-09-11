@@ -1,25 +1,15 @@
 from flask import Flask, render_template, url_for
-
+import json
 
 
 app = Flask(__name__)
 
-posts = [
-    {
-        'Course' : 'Course Name/Number',
-        'Professor' : 'Professor Name',
-        'GroupMe' : 'Link to GroupMe',
-        'Semester' : 'Semester and Year'
-    },
 
-    {
-        'Course' : 'Course Name/Number',
-        'Professor' : 'Professor Name',
-        'GroupMe' : 'Link to GroupMe',
-        'Semester' : 'Semester and Year'
-    }
+f = open("dummy.json")
 
-]  
+all_courses = json.load(f)
+
+f.close()
 
 @app.route("/")
 
@@ -29,7 +19,7 @@ def home():
 
 @app.route("/course")
 def course():
-    return render_template('course.html', posts = posts, title = 'Course')
+    return render_template('course.html', posts = all_courses["classes"], title = 'Course')
 
 
 
