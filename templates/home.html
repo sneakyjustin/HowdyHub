@@ -1,17 +1,25 @@
 {% extends "layout.html" %}
 {% block content %}
 
-    {% for post in posts %}
-        <article class="media content-section">
-            <div class="media-body">
-              <div class="article-metadata">
-                <a class="mr-2" href="#">{{ post.Course }}</a>
-                <small class="text-muted">{{ post.Semester }}</small>
-              </div>
-              <h2><a class="article-title" href="#">{{ post.Professor }}</a></h2>
-              <p class="article-content">{{ post.GroupMe }}</p>
-            </div>
-          </article>
-    {% endfor %}
+<h1>Home Page</h1>
+
+<main role="main" class="container">
+    <div class="row">
+      <div class="col-md-3">
+      </div>
+      <div class="col-md-6">
+        <div class="content-section">
+          <h3>Search Your Course</h3>
+          <p class='text-muted'>Enter the Course Name and Number: (CSCE 121)
+            <ul class="list-group">
+              <li class="list-group-item list-group-item-light">Ex. CSCE 121</li>
+            
+            </ul>
+          </p>
+        </div>
+      </div>
+    </div>
+  </main>
 
 {% endblock content %}
+
