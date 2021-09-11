@@ -5,11 +5,11 @@
         <article class="media content-section">
             <div class="media-body">
               <div class="article-metadata">
-                <a class="mr-2" href="#">{{ post.department }} {{post.course}}-{{post.section}}</a>
-                <small class="text-muted">{{ post.term }} '{{ post.year}}</small>
+                <a class="mr-2" href="#">{{ post.Course }}</a>
+                <small class="text-muted">{{ post.Semester }}</small>
               </div>
-              <h2><a class="article-title" href="#">{{ post.instructor }}</a></h2>
-              <a href="{{ post.link }}">Visit GroupMe</p>
+              <h2><a class="article-title" href="#">{{ post.Professor }}</a></h2>
+              <p class="article-content">{{ post.GroupMe }}</p>
             </div>
           </article>
     {% endfor %}
