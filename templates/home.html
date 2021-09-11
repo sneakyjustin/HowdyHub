@@ -1,7 +1,7 @@
 {% extends "layout.html" %}
 {% block content %}
 
-<h1>Home Page</h1>
+<h1 class="container">HowdyHub</h1>
 
 <main role="main" class="container">
     <div class="row">
@@ -12,8 +12,18 @@
           <h3>Search Your Course</h3>
           <p class='text-muted'>Enter the Course Name and Number: (CSCE 121)
             <ul class="list-group">
-              <li class="list-group-item list-group-item-light">Ex. CSCE 121</li>
-            
+            <form class="form-inline my-2 my-lg-1" method="GET">
+                <input class="form-control mr-sm-2"
+                type="search" placeholder="Dept. (Ex. AERO)"
+                name="Department">
+                
+            </form>
+            <form class="form-inline my-2 my-lg-0" method="GET">
+                <input class="form-control mr-sm-2"
+                type="search" placeholder="Course (Ex. 123)"
+                name="CourseNumber">
+                <button class="btn btn-outline-success my-4 my-sm-0" type="submit">Search</button>
+            </form>
             </ul>
           </p>
         </div>
