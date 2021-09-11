@@ -2,1282 +2,1442 @@
     "classes": [
         {
             "department": "ECEN",
-            "course": "164",
-            "section": "451",
-            "instructor": "Liu",
-            "term": "Spring 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "125",
-            "section": "379",
+            "course": "175",
+            "section": "308",
             "instructor": "Moreira",
-            "term": "Summer 19",
+            "year": 19,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECEN",
-            "course": "148",
-            "section": "307",
+            "course": "115",
+            "section": "473",
+            "instructor": "Moreira",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "159",
+            "section": "360",
+            "instructor": "Moreira",
+            "year": 18,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "103",
+            "section": "310",
             "instructor": "Michalski",
-            "term": "Fall 18",
+            "year": 18,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECEN",
-            "course": "185",
-            "section": "345",
+            "course": "186",
+            "section": "405",
             "instructor": "Liu",
-            "term": "Summer 18",
+            "year": 19,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "121",
+            "section": "409",
+            "instructor": "Moreira",
+            "year": 19,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "136",
+            "section": "454",
+            "instructor": "Moreira",
+            "year": 19,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "117",
+            "section": "438",
+            "instructor": "Liu",
+            "year": 18,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "134",
+            "section": "442",
+            "instructor": "Moreira",
+            "year": 18,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECEN",
             "course": "131",
+            "section": "368",
+            "instructor": "Moreira",
+            "year": 19,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "244",
             "section": "400",
-            "instructor": "Michalski",
-            "term": "Fall 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "164",
-            "section": "346",
-            "instructor": "Michalski",
-            "term": "Summer 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "158",
-            "section": "497",
             "instructor": "Moreira",
-            "term": "Fall 19",
+            "year": 20,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECEN",
-            "course": "126",
-            "section": "427",
-            "instructor": "Michalski",
-            "term": "Summer 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "111",
-            "section": "376",
-            "instructor": "Michalski",
-            "term": "Summer 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "177",
-            "section": "492",
+            "course": "272",
+            "section": "383",
             "instructor": "Moreira",
-            "term": "Summer 20",
+            "year": 20,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECEN",
-            "course": "222",
+            "course": "230",
+            "section": "317",
+            "instructor": "Moreira",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "227",
+            "section": "365",
+            "instructor": "Liu",
+            "year": 18,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "284",
+            "section": "488",
+            "instructor": "Moreira",
+            "year": 19,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "242",
+            "section": "465",
+            "instructor": "Michalski",
+            "year": 20,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "267",
+            "section": "350",
+            "instructor": "Liu",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "234",
+            "section": "463",
+            "instructor": "Moreira",
+            "year": 20,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "221",
+            "section": "405",
+            "instructor": "Michalski",
+            "year": 18,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "269",
             "section": "425",
             "instructor": "Michalski",
-            "term": "Summer 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "218",
-            "section": "406",
-            "instructor": "Moreira",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "255",
-            "section": "494",
-            "instructor": "Michalski",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "202",
-            "section": "472",
-            "instructor": "Liu",
-            "term": "Summer 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "286",
-            "section": "305",
-            "instructor": "Moreira",
-            "term": "Spring 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "214",
-            "section": "319",
-            "instructor": "Michalski",
-            "term": "Fall 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "235",
-            "section": "411",
-            "instructor": "Moreira",
-            "term": "Fall 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "290",
-            "section": "377",
-            "instructor": "Liu",
-            "term": "Fall 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "247",
-            "section": "427",
-            "instructor": "Liu",
-            "term": "Summer 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "291",
-            "section": "448",
-            "instructor": "Moreira",
-            "term": "Summer 20",
+            "year": 19,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECEN",
             "course": "383",
-            "section": "455",
+            "section": "487",
             "instructor": "Michalski",
-            "term": "Summer 19",
+            "year": 20,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECEN",
-            "course": "341",
-            "section": "382",
+            "course": "322",
+            "section": "326",
             "instructor": "Moreira",
-            "term": "Summer 19",
+            "year": 18,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECEN",
-            "course": "370",
+            "course": "374",
+            "section": "351",
+            "instructor": "Moreira",
+            "year": 18,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "355",
+            "section": "319",
+            "instructor": "Liu",
+            "year": 20,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "309",
+            "section": "362",
+            "instructor": "Liu",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "352",
+            "section": "389",
+            "instructor": "Liu",
+            "year": 18,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "395",
+            "section": "473",
+            "instructor": "Liu",
+            "year": 18,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "390",
+            "section": "462",
+            "instructor": "Michalski",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "373",
+            "section": "371",
+            "instructor": "Liu",
+            "year": 20,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "385",
+            "section": "483",
+            "instructor": "Moreira",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "416",
+            "section": "466",
+            "instructor": "Liu",
+            "year": 18,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "439",
+            "section": "432",
+            "instructor": "Michalski",
+            "year": 20,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "474",
+            "section": "394",
+            "instructor": "Moreira",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "441",
+            "section": "322",
+            "instructor": "Liu",
+            "year": 20,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "494",
+            "section": "488",
+            "instructor": "Michalski",
+            "year": 19,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECEN",
+            "course": "423",
             "section": "428",
             "instructor": "Moreira",
-            "term": "Fall 20",
+            "year": 20,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECEN",
-            "course": "388",
-            "section": "498",
-            "instructor": "Michalski",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "333",
-            "section": "362",
-            "instructor": "Michalski",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "389",
-            "section": "486",
+            "course": "434",
+            "section": "380",
             "instructor": "Liu",
-            "term": "Summer 19",
+            "year": 18,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECEN",
-            "course": "396",
-            "section": "410",
-            "instructor": "Michalski",
-            "term": "Summer 20",
+            "course": "418",
+            "section": "369",
+            "instructor": "Moreira",
+            "year": 20,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECEN",
-            "course": "398",
-            "section": "436",
+            "course": "482",
+            "section": "463",
             "instructor": "Liu",
-            "term": "Summer 20",
+            "year": 18,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECEN",
-            "course": "359",
-            "section": "308",
-            "instructor": "Moreira",
-            "term": "Summer 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "343",
-            "section": "350",
+            "course": "477",
+            "section": "397",
             "instructor": "Liu",
-            "term": "Spring 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "448",
-            "section": "373",
-            "instructor": "Michalski",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "493",
-            "section": "460",
-            "instructor": "Moreira",
-            "term": "Fall 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "475",
-            "section": "475",
-            "instructor": "Liu",
-            "term": "Fall 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "496",
-            "section": "490",
-            "instructor": "Michalski",
-            "term": "Fall 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "456",
-            "section": "496",
-            "instructor": "Moreira",
-            "term": "Spring 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "478",
-            "section": "311",
-            "instructor": "Liu",
-            "term": "Summer 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "484",
-            "section": "406",
-            "instructor": "Moreira",
-            "term": "Spring 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "497",
-            "section": "413",
-            "instructor": "Liu",
-            "term": "Fall 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "405",
-            "section": "302",
-            "instructor": "Moreira",
-            "term": "Summer 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECEN",
-            "course": "435",
-            "section": "441",
-            "instructor": "Moreira",
-            "term": "Spring 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "128",
-            "section": "464",
-            "instructor": "Chakravorty",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "160",
-            "section": "395",
-            "instructor": "Chakravorty",
-            "term": "Summer 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "193",
-            "section": "381",
-            "instructor": "Chakravorty",
-            "term": "Fall 18",
+            "year": 19,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
             "course": "126",
-            "section": "387",
-            "instructor": "Bowersox",
-            "term": "Spring 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "108",
-            "section": "315",
+            "section": "346",
             "instructor": "Chamitoff",
-            "term": "Summer 19",
+            "year": 18,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
-            "course": "156",
-            "section": "428",
+            "course": "116",
+            "section": "423",
             "instructor": "Bowersox",
-            "term": "Fall 20",
+            "year": 18,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "181",
+            "section": "492",
+            "instructor": "Chamitoff",
+            "year": 19,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
             "course": "162",
-            "section": "428",
+            "section": "495",
             "instructor": "Chamitoff",
-            "term": "Spring 19",
+            "year": 20,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
-            "course": "192",
-            "section": "394",
+            "course": "162",
+            "section": "435",
+            "instructor": "Bowersox",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "189",
+            "section": "300",
             "instructor": "Chamitoff",
-            "term": "Fall 19",
+            "year": 19,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
-            "course": "157",
-            "section": "460",
+            "course": "118",
+            "section": "441",
+            "instructor": "Bowersox",
+            "year": 19,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "164",
+            "section": "492",
             "instructor": "Chamitoff",
-            "term": "Spring 18",
+            "year": 19,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
-            "course": "177",
-            "section": "458",
-            "instructor": "Bowersox",
-            "term": "Spring 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "288",
-            "section": "330",
-            "instructor": "Bowersox",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "274",
-            "section": "431",
-            "instructor": "Bowersox",
-            "term": "Fall 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "244",
-            "section": "473",
-            "instructor": "Bowersox",
-            "term": "Summer 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "278",
-            "section": "437",
+            "course": "178",
+            "section": "417",
             "instructor": "Chamitoff",
-            "term": "Summer 18",
+            "year": 18,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
-            "course": "218",
-            "section": "458",
-            "instructor": "Bowersox",
-            "term": "Spring 19",
+            "course": "175",
+            "section": "364",
+            "instructor": "Chakravorty",
+            "year": 19,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
-            "course": "281",
-            "section": "330",
+            "course": "226",
+            "section": "322",
             "instructor": "Bowersox",
-            "term": "Summer 20",
+            "year": 19,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
             "course": "253",
-            "section": "330",
-            "instructor": "Chamitoff",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "250",
-            "section": "307",
-            "instructor": "Bowersox",
-            "term": "Spring 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "283",
-            "section": "499",
+            "section": "479",
             "instructor": "Chakravorty",
-            "term": "Spring 18",
+            "year": 18,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "229",
+            "section": "338",
+            "instructor": "Bowersox",
+            "year": 18,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "203",
+            "section": "377",
+            "instructor": "Chamitoff",
+            "year": 18,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "277",
+            "section": "386",
+            "instructor": "Bowersox",
+            "year": 18,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "202",
+            "section": "301",
+            "instructor": "Bowersox",
+            "year": 18,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "275",
+            "section": "301",
+            "instructor": "Chakravorty",
+            "year": 19,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "224",
+            "section": "387",
+            "instructor": "Bowersox",
+            "year": 20,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
             "course": "232",
-            "section": "373",
+            "section": "491",
+            "instructor": "Chamitoff",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "216",
+            "section": "483",
             "instructor": "Chakravorty",
-            "term": "Spring 19",
+            "year": 18,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "308",
+            "section": "402",
+            "instructor": "Bowersox",
+            "year": 18,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "398",
+            "section": "317",
+            "instructor": "Chakravorty",
+            "year": 20,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "351",
+            "section": "498",
+            "instructor": "Chakravorty",
+            "year": 20,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "353",
+            "section": "469",
+            "instructor": "Chamitoff",
+            "year": 20,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
             "course": "358",
-            "section": "414",
+            "section": "318",
+            "instructor": "Chamitoff",
+            "year": 19,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "368",
+            "section": "318",
+            "instructor": "Bowersox",
+            "year": 19,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "379",
+            "section": "396",
             "instructor": "Chakravorty",
-            "term": "Spring 19",
+            "year": 19,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
-            "course": "378",
-            "section": "302",
+            "course": "344",
+            "section": "330",
+            "instructor": "Chakravorty",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "389",
+            "section": "384",
+            "instructor": "Chakravorty",
+            "year": 20,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "343",
+            "section": "370",
+            "instructor": "Bowersox",
+            "year": 19,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "435",
+            "section": "321",
+            "instructor": "Chakravorty",
+            "year": 19,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "490",
+            "section": "391",
             "instructor": "Chamitoff",
-            "term": "Summer 20",
+            "year": 18,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
-            "course": "371",
-            "section": "315",
+            "course": "443",
+            "section": "459",
+            "instructor": "Chakravorty",
+            "year": 20,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "412",
+            "section": "432",
+            "instructor": "Chakravorty",
+            "year": 19,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "462",
+            "section": "351",
+            "instructor": "Chakravorty",
+            "year": 18,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "AERO",
+            "course": "465",
+            "section": "391",
             "instructor": "Bowersox",
-            "term": "Spring 18",
+            "year": 20,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
-            "course": "351",
-            "section": "426",
+            "course": "404",
+            "section": "405",
             "instructor": "Chamitoff",
-            "term": "Spring 20",
+            "year": 19,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
-            "course": "328",
-            "section": "306",
-            "instructor": "Bowersox",
-            "term": "Summer 19",
+            "course": "436",
+            "section": "420",
+            "instructor": "Chakravorty",
+            "year": 20,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
-            "course": "392",
-            "section": "326",
-            "instructor": "Bowersox",
-            "term": "Fall 19",
+            "course": "401",
+            "section": "334",
+            "instructor": "Chakravorty",
+            "year": 19,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "AERO",
-            "course": "320",
+            "course": "405",
             "section": "373",
             "instructor": "Bowersox",
-            "term": "Summer 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "390",
-            "section": "468",
-            "instructor": "Bowersox",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "372",
-            "section": "447",
-            "instructor": "Chamitoff",
-            "term": "Summer 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "349",
-            "section": "424",
-            "instructor": "Chakravorty",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "477",
-            "section": "348",
-            "instructor": "Bowersox",
-            "term": "Spring 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "477",
-            "section": "416",
-            "instructor": "Bowersox",
-            "term": "Summer 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "488",
-            "section": "483",
-            "instructor": "Bowersox",
-            "term": "Summer 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "417",
-            "section": "355",
-            "instructor": "Bowersox",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "455",
-            "section": "462",
-            "instructor": "Bowersox",
-            "term": "Fall 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "493",
-            "section": "326",
-            "instructor": "Chakravorty",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "461",
-            "section": "437",
-            "instructor": "Chamitoff",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "403",
-            "section": "375",
-            "instructor": "Chamitoff",
-            "term": "Fall 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "429",
-            "section": "398",
-            "instructor": "Chamitoff",
-            "term": "Fall 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "AERO",
-            "course": "425",
-            "section": "397",
-            "instructor": "Bowersox",
-            "term": "Fall 19",
+            "year": 19,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "170",
-            "section": "445",
+            "course": "125",
+            "section": "402",
             "instructor": "Yonghong",
-            "term": "Summer 18",
+            "year": 20,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "168",
-            "section": "386",
-            "instructor": "Yonghong",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "108",
-            "section": "442",
+            "course": "173",
+            "section": "451",
             "instructor": "Marco",
-            "term": "Fall 19",
+            "year": 20,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "107",
-            "section": "477",
-            "instructor": "Yonghong",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "106",
-            "section": "422",
-            "instructor": "Yonghong",
-            "term": "Spring 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "157",
-            "section": "364",
-            "instructor": "Marco",
-            "term": "Fall 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "160",
-            "section": "452",
+            "course": "140",
+            "section": "385",
             "instructor": "Pedro",
-            "term": "Spring 20",
+            "year": 19,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "144",
+            "section": "399",
+            "instructor": "Marco",
+            "year": 18,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
             "course": "103",
-            "section": "399",
-            "instructor": "Pedro",
-            "term": "Summer 18",
+            "section": "388",
+            "instructor": "Yonghong",
+            "year": 19,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "123",
-            "section": "449",
-            "instructor": "Pedro",
-            "term": "Spring 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "157",
-            "section": "445",
+            "course": "155",
+            "section": "331",
             "instructor": "Marco",
-            "term": "Spring 19",
+            "year": 19,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "103",
+            "section": "303",
+            "instructor": "Marco",
+            "year": 20,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "137",
+            "section": "314",
+            "instructor": "Pedro",
+            "year": 20,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "140",
+            "section": "497",
+            "instructor": "Yonghong",
+            "year": 19,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "119",
+            "section": "410",
+            "instructor": "Yonghong",
+            "year": 18,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "234",
+            "section": "406",
+            "instructor": "Marco",
+            "year": 19,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "205",
+            "section": "306",
+            "instructor": "Yonghong",
+            "year": 18,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "225",
+            "section": "332",
+            "instructor": "Marco",
+            "year": 19,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "276",
+            "section": "489",
+            "instructor": "Pedro",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "219",
+            "section": "340",
+            "instructor": "Yonghong",
+            "year": 19,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "283",
+            "section": "333",
+            "instructor": "Yonghong",
+            "year": 20,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "206",
+            "section": "346",
+            "instructor": "Pedro",
+            "year": 20,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
             "course": "262",
-            "section": "474",
+            "section": "429",
+            "instructor": "Pedro",
+            "year": 18,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "295",
+            "section": "320",
             "instructor": "Yonghong",
-            "term": "Summer 18",
+            "year": 20,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "239",
-            "section": "471",
-            "instructor": "Pedro",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "290",
-            "section": "386",
-            "instructor": "Pedro",
-            "term": "Fall 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "211",
-            "section": "417",
+            "course": "271",
+            "section": "497",
             "instructor": "Marco",
-            "term": "Summer 20",
+            "year": 19,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "272",
-            "section": "442",
-            "instructor": "Pedro",
-            "term": "Fall 20",
+            "course": "365",
+            "section": "432",
+            "instructor": "Yonghong",
+            "year": 18,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "234",
-            "section": "361",
+            "course": "331",
+            "section": "327",
+            "instructor": "Yonghong",
+            "year": 20,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "362",
+            "section": "439",
             "instructor": "Marco",
-            "term": "Summer 19",
+            "year": 18,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "212",
-            "section": "399",
-            "instructor": "Pedro",
-            "term": "Spring 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "234",
-            "section": "455",
-            "instructor": "Pedro",
-            "term": "Spring 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "216",
-            "section": "492",
+            "course": "310",
+            "section": "460",
             "instructor": "Yonghong",
-            "term": "Spring 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "270",
-            "section": "329",
-            "instructor": "Yonghong",
-            "term": "Spring 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "318",
-            "section": "345",
-            "instructor": "Yonghong",
-            "term": "Summer 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "317",
-            "section": "335",
-            "instructor": "Marco",
-            "term": "Summer 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "372",
-            "section": "321",
-            "instructor": "Pedro",
-            "term": "Fall 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "335",
-            "section": "397",
-            "instructor": "Yonghong",
-            "term": "Spring 20",
+            "year": 18,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
             "course": "324",
-            "section": "389",
-            "instructor": "Yonghong",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "380",
-            "section": "436",
-            "instructor": "Pedro",
-            "term": "Summer 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "351",
-            "section": "346",
+            "section": "477",
             "instructor": "Marco",
-            "term": "Spring 20",
+            "year": 18,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "308",
-            "section": "318",
+            "course": "303",
+            "section": "438",
             "instructor": "Pedro",
-            "term": "Summer 18",
+            "year": 20,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
             "course": "388",
-            "section": "385",
-            "instructor": "Yonghong",
-            "term": "Summer 20",
+            "section": "451",
+            "instructor": "Pedro",
+            "year": 20,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "311",
+            "course": "317",
+            "section": "429",
+            "instructor": "Pedro",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "373",
+            "section": "448",
+            "instructor": "Marco",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "373",
+            "section": "370",
+            "instructor": "Yonghong",
+            "year": 18,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "437",
             "section": "414",
             "instructor": "Yonghong",
-            "term": "Spring 19",
+            "year": 19,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "406",
-            "section": "421",
+            "course": "422",
+            "section": "388",
             "instructor": "Marco",
-            "term": "Fall 18",
+            "year": 19,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "472",
-            "section": "461",
-            "instructor": "Marco",
-            "term": "Fall 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "488",
-            "section": "361",
+            "course": "446",
+            "section": "412",
             "instructor": "Yonghong",
-            "term": "Spring 19",
+            "year": 19,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "407",
-            "section": "379",
-            "instructor": "Marco",
-            "term": "Summer 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "493",
-            "section": "370",
+            "course": "455",
+            "section": "300",
             "instructor": "Pedro",
-            "term": "Spring 20",
+            "year": 20,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "ECON",
-            "course": "442",
-            "section": "476",
-            "instructor": "Pedro",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "431",
-            "section": "351",
-            "instructor": "Yonghong",
-            "term": "Spring 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "426",
-            "section": "325",
-            "instructor": "Yonghong",
-            "term": "Fall 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "415",
-            "section": "352",
-            "instructor": "Marco",
-            "term": "Summer 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "ECON",
-            "course": "454",
+            "course": "404",
             "section": "331",
+            "instructor": "Marco",
+            "year": 18,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "486",
+            "section": "341",
+            "instructor": "Yonghong",
+            "year": 18,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "460",
+            "section": "380",
+            "instructor": "Yonghong",
+            "year": 19,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "480",
+            "section": "462",
             "instructor": "Pedro",
-            "term": "Spring 20",
+            "year": 20,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "483",
+            "section": "300",
+            "instructor": "Yonghong",
+            "year": 20,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "ECON",
+            "course": "404",
+            "section": "318",
+            "instructor": "Marco",
+            "year": 19,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "157",
-            "section": "448",
+            "course": "181",
+            "section": "364",
             "instructor": "Moore",
-            "term": "Fall 20",
+            "year": 18,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "177",
-            "section": "372",
+            "course": "135",
+            "section": "479",
+            "instructor": "Muzahid",
+            "year": 18,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "120",
+            "section": "433",
+            "instructor": "Muzahid",
+            "year": 18,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "174",
+            "section": "305",
             "instructor": "Moore",
-            "term": "Summer 18",
+            "year": 18,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "198",
-            "section": "461",
+            "course": "165",
+            "section": "447",
             "instructor": "McGuire",
-            "term": "Spring 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "176",
-            "section": "337",
-            "instructor": "McGuire",
-            "term": "Summer 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "115",
-            "section": "306",
-            "instructor": "Muzahid",
-            "term": "Spring 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "198",
-            "section": "453",
-            "instructor": "Muzahid",
-            "term": "Summer 20",
+            "year": 19,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
             "course": "142",
-            "section": "335",
-            "instructor": "McGuire",
-            "term": "Fall 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "148",
-            "section": "312",
-            "instructor": "McGuire",
-            "term": "Fall 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "125",
-            "section": "382",
-            "instructor": "McGuire",
-            "term": "Fall 20",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "147",
             "section": "365",
-            "instructor": "Muzahid",
-            "term": "Summer 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "238",
-            "section": "410",
-            "instructor": "Muzahid",
-            "term": "Fall 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "277",
-            "section": "492",
-            "instructor": "McGuire",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "206",
-            "section": "340",
             "instructor": "Moore",
-            "term": "Summer 20",
+            "year": 20,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "211",
-            "section": "467",
+            "course": "187",
+            "section": "460",
             "instructor": "Moore",
-            "term": "Spring 18",
+            "year": 20,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "250",
-            "section": "375",
+            "course": "190",
+            "section": "390",
+            "instructor": "McGuire",
+            "year": 19,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "106",
+            "section": "488",
+            "instructor": "Moore",
+            "year": 20,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "166",
+            "section": "468",
             "instructor": "Muzahid",
-            "term": "Spring 18",
+            "year": 20,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "235",
-            "section": "456",
-            "instructor": "McGuire",
-            "term": "Fall 20",
+            "course": "289",
+            "section": "468",
+            "instructor": "Moore",
+            "year": 18,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "262",
-            "section": "326",
-            "instructor": "McGuire",
-            "term": "Spring 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "271",
-            "section": "482",
-            "instructor": "McGuire",
-            "term": "Spring 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "271",
-            "section": "436",
-            "instructor": "McGuire",
-            "term": "Fall 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "285",
-            "section": "437",
-            "instructor": "McGuire",
-            "term": "Fall 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "385",
+            "course": "296",
             "section": "471",
             "instructor": "Muzahid",
-            "term": "Summer 20",
+            "year": 18,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "325",
-            "section": "409",
+            "course": "204",
+            "section": "404",
             "instructor": "Moore",
-            "term": "Summer 19",
+            "year": 19,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "396",
-            "section": "489",
+            "course": "267",
+            "section": "311",
             "instructor": "Muzahid",
-            "term": "Spring 20",
+            "year": 18,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "316",
-            "section": "329",
+            "course": "225",
+            "section": "343",
+            "instructor": "Moore",
+            "year": 20,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "267",
+            "section": "313",
             "instructor": "McGuire",
-            "term": "Fall 20",
+            "year": 18,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "383",
-            "section": "380",
+            "course": "283",
+            "section": "300",
+            "instructor": "Moore",
+            "year": 20,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "226",
+            "section": "335",
             "instructor": "Muzahid",
-            "term": "Spring 19",
+            "year": 20,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "365",
-            "section": "419",
+            "course": "259",
+            "section": "438",
+            "instructor": "Muzahid",
+            "year": 18,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "267",
+            "section": "493",
             "instructor": "Moore",
-            "term": "Fall 20",
+            "year": 19,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "303",
-            "section": "365",
-            "instructor": "Moore",
-            "term": "Spring 19",
+            "course": "326",
+            "section": "323",
+            "instructor": "Muzahid",
+            "year": 18,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "361",
-            "section": "383",
-            "instructor": "Moore",
-            "term": "Summer 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "360",
-            "section": "315",
+            "course": "364",
+            "section": "302",
             "instructor": "McGuire",
-            "term": "Spring 18",
+            "year": 19,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "363",
+            "section": "480",
+            "instructor": "Muzahid",
+            "year": 19,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "319",
+            "section": "352",
+            "instructor": "Moore",
+            "year": 18,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
             "course": "386",
-            "section": "302",
+            "section": "345",
             "instructor": "McGuire",
-            "term": "Spring 20",
+            "year": 18,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "472",
-            "section": "339",
+            "course": "380",
+            "section": "431",
             "instructor": "McGuire",
-            "term": "Fall 19",
+            "year": 18,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "442",
-            "section": "494",
+            "course": "321",
+            "section": "343",
             "instructor": "Muzahid",
-            "term": "Summer 19",
+            "year": 20,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "417",
-            "section": "394",
-            "instructor": "Moore",
-            "term": "Fall 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "456",
-            "section": "370",
-            "instructor": "Moore",
-            "term": "Fall 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "437",
-            "section": "404",
+            "course": "358",
+            "section": "495",
             "instructor": "McGuire",
-            "term": "Summer 18",
+            "year": 19,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "489",
-            "section": "330",
-            "instructor": "Moore",
-            "term": "Spring 18",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "455",
-            "section": "440",
-            "instructor": "Moore",
-            "term": "Fall 19",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-        },
-        {
-            "department": "CSCE",
-            "course": "419",
+            "course": "345",
             "section": "457",
-            "instructor": "McGuire",
-            "term": "Summer 20",
+            "instructor": "Moore",
+            "year": 18,
+            "term": "Summer",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
-            "course": "457",
-            "section": "475",
+            "course": "371",
+            "section": "364",
+            "instructor": "Moore",
+            "year": 20,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "462",
+            "section": "317",
+            "instructor": "Moore",
+            "year": 18,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "468",
+            "section": "415",
             "instructor": "Muzahid",
-            "term": "Summer 19",
+            "year": 20,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "493",
+            "section": "371",
+            "instructor": "McGuire",
+            "year": 19,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "453",
+            "section": "392",
+            "instructor": "Moore",
+            "year": 20,
+            "term": "Fall",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "460",
+            "section": "469",
+            "instructor": "Muzahid",
+            "year": 18,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "436",
+            "section": "379",
+            "instructor": "Moore",
+            "year": 20,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "470",
+            "section": "469",
+            "instructor": "McGuire",
+            "year": 19,
+            "term": "Spring",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "480",
+            "section": "460",
+            "instructor": "Moore",
+            "year": 18,
+            "term": "Summer",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+        },
+        {
+            "department": "CSCE",
+            "course": "445",
+            "section": "380",
+            "instructor": "McGuire",
+            "year": 20,
+            "term": "Spring",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         },
         {
             "department": "CSCE",
             "course": "415",
-            "section": "416",
+            "section": "345",
             "instructor": "Moore",
-            "term": "Spring 20",
+            "year": 19,
+            "term": "Fall",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         }
     ]
