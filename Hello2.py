@@ -24,11 +24,28 @@ def course_search_list():
     f.close()
 
     courses = []
+
     for i in all_courses["classes"]:
         if (req_dep is None or i["department"] == req_dep):
             if (req_course is None or i["course"] == req_course):
                 if (req_instr is None or i["instructor"] == req_instr):
-                    courses.append(i)
+                    full_crs_name = i["department"] + " " + i["course"]
+                    tmp_class_dict = {
+                        "crs_name": full_crs_name,
+                        "yr_term": i["term"] + " '" + str(i["year"]),
+                        "title": full_crs_name + "-" + i["section"] + " " + i["instructor"],
+                        "link": i["link"]
+                    }
+                    courses.append(tmp_class_dict)
+
+    if len(courses) == 0:
+        tmp_class_dict = {
+            "crs_name":"",
+            "yr_term":"Please refine your search",
+            "title":"No classes found",
+            "link":""
+        }
+        courses.append(tmp_class_dict)
 
     return render_template('course.html', posts = courses, title = 'Course')
 

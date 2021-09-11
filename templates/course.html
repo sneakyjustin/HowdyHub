@@ -5,10 +5,10 @@
         <article class="media content-section container">
             <div class="media-body container">
               <div class="article-metadata">
-                <a class="mr-2" href="#">{{ post.department }} {{ post.course }}</a>
-                <small class="text-muted">{{ post.term }} '{{ post.year }}</small>
+                <a class="mr-2" href="#">{{ post.crs_name }}</a>
+                <small class="text-muted">{{ post.yr_term }}</small>
               </div>
-              <h2><a class="article-title" href="#">{{ post.department }} {{ post.course }}-{{post.section}} {{ post.instructor }}</a></h2>
+              <h2><a class="article-title" href="#">{{ post.title }}</a></h2>
               <a class="article-content" href="{{ post.link }}">Visit GroupMe</a>
             </div>
           </article>
