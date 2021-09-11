@@ -12,11 +12,9 @@ def home():
 
 @app.route("/course")
 def course_search_list():
-    req_dep = request.args.get("dep")
-    if req_dep is not None:
-        req_dep = req_dep.upper()
-    req_course = request.args.get("crs_num")
-    req_instr = request.args.get("instr")
+    req_dep = request.args.get("Department")
+    req_course = request.args.get("Course")
+    req_instr = request.args.get("Instructor")
     if req_instr is not None:
         req_instr = req_instr.capitalize()
     f = open("dummy.json")
@@ -26,9 +24,9 @@ def course_search_list():
     courses = []
 
     for i in all_courses["classes"]:
-        if (req_dep is None or i["department"] == req_dep):
-            if (req_course is None or i["course"] == req_course):
-                if (req_instr is None or i["instructor"] == req_instr):
+        if (req_dep=="" or i["department"] == req_dep):
+            if (req_course=="" or i["course"] == req_course):
+                if (req_instr is None or req_instr=="" or i["instructor"] == req_instr):
                     full_crs_name = i["department"] + " " + i["course"]
                     tmp_class_dict = {
                         "crs_name": full_crs_name,
