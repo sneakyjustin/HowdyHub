@@ -10,6 +10,10 @@ app = Flask(__name__)
 def home():
     return render_template('home.html', title = 'Home')
 
+@app.route("/about")
+def about():
+    return render_template('about.html', title = 'About')
+
 @app.route("/course")
 def course_search_list():
     req_dep = request.args.get("Department")
