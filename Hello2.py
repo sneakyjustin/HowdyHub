@@ -41,7 +41,7 @@ def course_search_list():
             "crs_name":"",
             "yr_term":"Please refine your search",
             "title":"No classes found",
-            "link":""
+            "link":"https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
         }
         courses.append(tmp_class_dict)
 

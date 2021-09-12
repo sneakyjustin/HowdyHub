@@ -1,104 +1,334 @@
 {
     "classes": [
         {
-            "department": "ECEN",
-            "course": "153",
-            "section": "428",
+            "department": "CSCE",
+            "course": "162",
+            "section": "384",
             "instructor": "Lee",
-            "year": 18,
-            "term": "Summer",
-            "gid": "70874328",
-            "link": "https://app.groupme.com/join_group/70874328/OvBywytJ"
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874448",
+            "link": "https://app.groupme.com/join_group/70874448/kqLR796y"
         },
         {
-            "department": "ECEN",
-            "course": "153",
-            "section": "385",
+            "department": "CSCE",
+            "course": "162",
+            "section": "384",
+            "instructor": "Lee",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874449",
+            "link": "https://app.groupme.com/join_group/70874449/wNp6KArr"
+        },
+        {
+            "department": "CSCE",
+            "course": "162",
+            "section": "414",
+            "instructor": "Ma",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874450",
+            "link": "https://app.groupme.com/join_group/70874450/ibpjvRJn"
+        },
+        {
+            "department": "AERO",
+            "course": "168",
+            "section": "470",
+            "instructor": "Ma",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874473",
+            "link": "https://app.groupme.com/join_group/70874473/8gMllhvp"
+        },
+        {
+            "department": "AERO",
+            "course": "168",
+            "section": "405",
+            "instructor": "Lee",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874474",
+            "link": "https://app.groupme.com/join_group/70874474/7Ujmfp7C"
+        },
+        {
+            "department": "AERO",
+            "course": "168",
+            "section": "417",
+            "instructor": "Ma",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874475",
+            "link": "https://app.groupme.com/join_group/70874475/7iu7Syx6"
+        },
+        {
+            "department": "CSCE",
+            "course": "177",
+            "section": "429",
+            "instructor": "Ma",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874484",
+            "link": "https://app.groupme.com/join_group/70874484/rX1He1cE"
+        },
+        {
+            "department": "CSCE",
+            "course": "177",
+            "section": "321",
+            "instructor": "Bhuiyan",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874485",
+            "link": "https://app.groupme.com/join_group/70874485/lv8oFxgq"
+        },
+        {
+            "department": "CSCE",
+            "course": "177",
+            "section": "456",
+            "instructor": "Bhuiyan",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874486",
+            "link": "https://app.groupme.com/join_group/70874486/oF5UL7XS"
+        },
+        {
+            "department": "AERO",
+            "course": "183",
+            "section": "444",
             "instructor": "Wang",
-            "year": 19,
-            "term": "Summer",
-            "gid": "70874329",
-            "link": "https://app.groupme.com/join_group/70874329/T9VHBlVX"
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874503",
+            "link": "https://app.groupme.com/join_group/70874503/ZF8jEgIf"
         },
         {
-            "department": "ECEN",
-            "course": "153",
-            "section": "452",
+            "department": "AERO",
+            "course": "183",
+            "section": "338",
+            "instructor": "Wang",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874504",
+            "link": "https://app.groupme.com/join_group/70874504/noUc21cY"
+        },
+        {
+            "department": "AERO",
+            "course": "183",
+            "section": "367",
+            "instructor": "Ma",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874505",
+            "link": "https://app.groupme.com/join_group/70874505/gIpoZ3WK"
+        },
+        {
+            "department": "CSCE",
+            "course": "171",
+            "section": "370",
+            "instructor": "Wang",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874511",
+            "link": "https://app.groupme.com/join_group/70874511/c6MJsOqC"
+        },
+        {
+            "department": "CSCE",
+            "course": "171",
+            "section": "301",
+            "instructor": "Ma",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874512",
+            "link": "https://app.groupme.com/join_group/70874512/QG1daThj"
+        },
+        {
+            "department": "CSCE",
+            "course": "171",
+            "section": "487",
+            "instructor": "Ma",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874513",
+            "link": "https://app.groupme.com/join_group/70874513/ABCIjrAh"
+        },
+        {
+            "department": "AERO",
+            "course": "121",
+            "section": "428",
+            "instructor": "Wang",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874524",
+            "link": "https://app.groupme.com/join_group/70874524/NEbL7ixi"
+        },
+        {
+            "department": "AERO",
+            "course": "121",
+            "section": "406",
+            "instructor": "Ma",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874525",
+            "link": "https://app.groupme.com/join_group/70874525/h4fTT1ZP"
+        },
+        {
+            "department": "AERO",
+            "course": "121",
+            "section": "455",
             "instructor": "Lee",
-            "year": 20,
-            "term": "Summer",
-            "gid": "70874330",
-            "link": "https://app.groupme.com/join_group/70874330/1wuvBZMG"
-        },
-        {
-            "department": "CSCE",
-            "course": "179",
-            "section": "363",
-            "instructor": "Ma",
-            "year": 19,
-            "term": "Spring",
-            "gid": "70874332",
-            "link": "https://app.groupme.com/join_group/70874332/CPOOGwVF"
-        },
-        {
-            "department": "CSCE",
-            "course": "179",
-            "section": "379",
-            "instructor": "Bhuiyan",
-            "year": 18,
-            "term": "Spring",
-            "gid": "70874333",
-            "link": "https://app.groupme.com/join_group/70874333/CIM5Ups2"
-        },
-        {
-            "department": "CSCE",
-            "course": "179",
-            "section": "466",
-            "instructor": "Ma",
-            "year": 19,
-            "term": "Summer",
-            "gid": "70874335",
-            "link": "https://app.groupme.com/join_group/70874335/YMBj1S7h"
-        },
-        {
-            "department": "ECEN",
-            "course": "170",
-            "section": "498",
-            "instructor": "Bhuiyan",
-            "year": 20,
-            "term": "Spring",
-            "gid": "70874346",
-            "link": "https://app.groupme.com/join_group/70874346/Mm6TSqyy"
-        },
-        {
-            "department": "ECEN",
-            "course": "170",
-            "section": "323",
-            "instructor": "Bhuiyan",
-            "year": 19,
+            "year": 21,
             "term": "Fall",
-            "gid": "70874347",
-            "link": "https://app.groupme.com/join_group/70874347/fNsgnCcz"
+            "gid": "70874526",
+            "link": "https://app.groupme.com/join_group/70874526/GRkhB8pW"
         },
         {
-            "department": "ECEN",
-            "course": "170",
-            "section": "409",
+            "department": "AERO",
+            "course": "152",
+            "section": "411",
             "instructor": "Bhuiyan",
-            "year": 20,
+            "year": 21,
             "term": "Fall",
-            "gid": "70874348",
-            "link": "https://app.groupme.com/join_group/70874348/tDjNmJlg"
+            "gid": "70874532",
+            "link": "https://app.groupme.com/join_group/70874532/j36MppiF"
         },
         {
-            "department": "ECEN",
-            "course": "114",
-            "section": "322",
+            "department": "AERO",
+            "course": "152",
+            "section": "440",
             "instructor": "Bhuiyan",
-            "year": 18,
-            "term": "Spring",
-            "gid": "70874360",
-            "link": "https://app.groupme.com/join_group/70874360/lGTMr8Tg"
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874533",
+            "link": "https://app.groupme.com/join_group/70874533/maxNVC4s"
+        },
+        {
+            "department": "AERO",
+            "course": "152",
+            "section": "480",
+            "instructor": "Ma",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874534",
+            "link": "https://app.groupme.com/join_group/70874534/487MOvCg"
+        },
+        {
+            "department": "PHYS",
+            "course": "118",
+            "section": "458",
+            "instructor": "Lee",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874547",
+            "link": "https://app.groupme.com/join_group/70874547/GxCY4fni"
+        },
+        {
+            "department": "PHYS",
+            "course": "118",
+            "section": "419",
+            "instructor": "Ma",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874548",
+            "link": "https://app.groupme.com/join_group/70874548/py3PfPqX"
+        },
+        {
+            "department": "PHYS",
+            "course": "118",
+            "section": "390",
+            "instructor": "Lee",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874549",
+            "link": "https://app.groupme.com/join_group/70874549/H3HGvCvp"
+        },
+        {
+            "department": "PHYS",
+            "course": "138",
+            "section": "447",
+            "instructor": "Ma",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874561",
+            "link": "https://app.groupme.com/join_group/70874561/Gc6AId7Z"
+        },
+        {
+            "department": "PHYS",
+            "course": "138",
+            "section": "431",
+            "instructor": "Bhuiyan",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874562",
+            "link": "https://app.groupme.com/join_group/70874562/Ypl1z61T"
+        },
+        {
+            "department": "PHYS",
+            "course": "138",
+            "section": "477",
+            "instructor": "Wang",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874563",
+            "link": "https://app.groupme.com/join_group/70874563/odgCtvEq"
+        },
+        {
+            "department": "ECON",
+            "course": "138",
+            "section": "389",
+            "instructor": "Bhuiyan",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874572",
+            "link": "https://app.groupme.com/join_group/70874572/3UDSHipJ"
+        },
+        {
+            "department": "ECON",
+            "course": "138",
+            "section": "393",
+            "instructor": "Ma",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874573",
+            "link": "https://app.groupme.com/join_group/70874573/RzeW2K8w"
+        },
+        {
+            "department": "ECON",
+            "course": "138",
+            "section": "429",
+            "instructor": "Wang",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874574",
+            "link": "https://app.groupme.com/join_group/70874574/jLrRvmy0"
+        },
+        {
+            "department": "ECON",
+            "course": "150",
+            "section": "408",
+            "instructor": "Ma",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874612",
+            "link": "https://app.groupme.com/join_group/70874612/bhku84xr"
+        },
+        {
+            "department": "ECON",
+            "course": "150",
+            "section": "316",
+            "instructor": "Lee",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874613",
+            "link": "https://app.groupme.com/join_group/70874613/AuPWVF08"
+        },
+        {
+            "department": "ECON",
+            "course": "150",
+            "section": "475",
+            "instructor": "Wang",
+            "year": 21,
+            "term": "Fall",
+            "gid": "70874614",
+            "link": "https://app.groupme.com/join_group/70874614/hS19MpaW"
         }
     ]
 }
