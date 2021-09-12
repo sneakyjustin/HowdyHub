@@ -2,7 +2,7 @@ from flask import Flask, render_template, url_for, request
 import json
 
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='/static')
 
 @app.route("/")
 

@@ -2,6 +2,9 @@ body {
     background: #fafafa;
     color: #333333;
     margin-top: 5rem;
+
+    background-image:url('https://d25uzh8dt55g84.cloudfront.net/s3/kirksey-website/hg/files/kirkseyarchitecture/3c/3c906b39-6c49-4e36-852c-421e4907654b.jpg?fileversion=1&maxwidth=1000');
+    background-size: cover
   }
   
   h1, h2, h3, h4, h5, h6 {
