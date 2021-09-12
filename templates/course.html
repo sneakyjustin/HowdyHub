@@ -2,18 +2,16 @@
 {% block content %}
 
     {% for post in posts %}
-      <body class=courses>
-        <article class="media content-section container courses">
+        <article class="media content-section container">
             <div class="media-body container">
               <div class="article-metadata">
                 <a class="mr-2" href="#">{{ post.crs_name }}</a>
                 <small class="text-muted">{{ post.yr_term }}</small>
               </div>
-              <h2><a class="article-title" href="#">{{ post.title }}</a></h2>
+              <h2 class="article-title">{{ post.title }}</h2>
               <a class="article-content" href="{{ post.link }}">Visit GroupMe</a>
             </div>
           </article>
-      </body> 
     {% endfor %}
 
 {% endblock content %}
