@@ -8,7 +8,7 @@ app = Flask(__name__, static_url_path='/static')
 
 @app.route("/home")
 def home():
-    return render_template('home.html', title = 'Home')
+    return render_template('index.html', title = 'Home')
 
 @app.route("/about")
 def about():
@@ -57,3 +57,4 @@ if __name__ == '__main__':
     app.run(debug=True)
 
 #TODO Add footer if time
+#TODO change name of Hello2.py
