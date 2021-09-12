@@ -55,3 +55,7 @@ def course_search_list():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+#TODO No classes found shows "visit groupme"
+#TODO Classes change color when hover
+#TODO Add footer if time
