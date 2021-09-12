@@ -9,7 +9,9 @@
                 <small class="text-muted">{{ post.yr_term }}</small>
               </div>
               <h2 class="article-title">{{ post.title }}</h2>
-              <a class="article-content" href="{{ post.link }}">Visit GroupMe</a>
+              {% if post.link != "no link" %}
+                <a class="article-content" href="{{ post.link }}">Visit GroupMe</a>
+              {% endif %}
             </div>
           </article>
     {% endfor %}

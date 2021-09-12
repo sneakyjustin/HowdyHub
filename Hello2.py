@@ -45,7 +45,7 @@ def course_search_list():
             "crs_name":"",
             "yr_term":"Please refine your search",
             "title":"No classes found",
-            "link":"https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+            "link":"no link"
         }
         courses.append(tmp_class_dict)
 
@@ -56,6 +56,4 @@ def course_search_list():
 if __name__ == '__main__':
     app.run(debug=True)
 
-#TODO No classes found shows "visit groupme"
-#TODO Classes change color when hover
 #TODO Add footer if time
