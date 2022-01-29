@@ -2,13 +2,13 @@ from flask import Flask, render_template, url_for, request
 import json
 
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='/static')
 
 @app.route("/")
 
 @app.route("/home")
 def home():
-    return render_template('home.html', title = 'Home')
+    return render_template('index.html', title = 'Home')
 
 @app.route("/about")
 def about():
@@ -45,7 +45,7 @@ def course_search_list():
             "crs_name":"",
             "yr_term":"Please refine your search",
             "title":"No classes found",
-            "link":"https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+            "link":"no link"
         }
         courses.append(tmp_class_dict)
 
@@ -55,3 +55,6 @@ def course_search_list():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+#TODO Add footer if time
+#TODO change name of Hello2.py

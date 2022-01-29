@@ -8,8 +8,10 @@
                 <a class="mr-2" href="#">{{ post.crs_name }}</a>
                 <small class="text-muted">{{ post.yr_term }}</small>
               </div>
-              <h2><a class="article-title" href="#">{{ post.title }}</a></h2>
-              <a class="article-content" href="{{ post.link }}">Visit GroupMe</a>
+              <h2 class="article-title">{{ post.title }}</h2>
+              {% if post.link != "no link" %}
+                <a class="article-content" href="{{ post.link }}">Visit GroupMe</a>
+              {% endif %}
             </div>
           </article>
     {% endfor %}

@@ -2,33 +2,38 @@ import os
 import json
 
 dev_token = "PYl6A9mX8LtpxtNOzgRcIOjztSBYrgoa9QRzATMC"
-#name = "test group"
 
-names = ["CSCE 221", "CSCE 222", "CSCE 223"]
+def load_groupmes():
 
-#str = 'curl -X POST -H "Content--Type: application/json" -d "{"name": "' + name + '"}" https://api.groupme.com/v3/groups?token=' + dev_token
-#os.system(str)
+    f = open("demo.json")
 
-#str = "curl -X POST -H \"Content-Type: application/json\" -d '{\"name\": \"Family\"}' https://api.groupme.com/v3/groups?token=PYl6A9mX8LtpxtNOzgRcIOjztSBYrgoa9QRzATMC"
-#os.system(str)
+    all_courses = json.load(f)
 
-f = open("dummy.json")
+    for i in all_courses["classes"]:
+        dep = i["department"]
+        course = i["course"]
+        prof = i["instructor"]
 
-all_courses = json.load(f)
+        course_name = dep + " " + course + " " + prof
 
-for i in all_courses["classes"]:
-    dep = i["department"]
-    course = i["course"]
+        test = "department = " + dep + ", course = " + course
+        #print(course_name)
 
-    course_name = dep + " " + course
+        str = "curl -X POST -H \"Content-Type: application/json\" -d '{\"name\": \"" + course_name + "\"}' https://api.groupme.com/v3/groups?token=" + dev_token
+        os.system(str)
 
-    test = "department = " + dep + ", course = " + course
-    print(course_name)
 
-    #str = "curl -X POST -H \"Content-Type: application/json\" -d '{\"name\": \"" + name + "\"}' https://api.groupme.com/v3/groups?token=" + dev_token
-    #os.system(str)
+def delete_groupmes():
+    del_ids = [70879951, 70880083]
+    for ids in del_ids:
 
-#curl -X POST -H "Content-Type: application/json" https://api.groupme.com/v3/groups/70873511/destroy?token=PYl6A9mX8LtpxtNOzgRcIOjztSBYrgoa9QRzATMC
-data = curl -X GET -H "Content-Type: application/json" https://api.groupme.com/v3/groups?token=PYl6A9mX8LtpxtNOzgRcIOjztSBYrgoa9QRzATMC
+        deletee = 'curl -X POST -H "Content-Type: application/json" https://api.groupme.com/v3/groups/' + str(ids) + '/destroy?token=' + dev_token
+        os.system(deletee)
 
-for i in data
+if __name__ == "__main__":
+    inp = input("load or delete groupmes: ")
+    if inp == "load":
+        load_groupmes()
+    else:
+        delete_groupmes()
+    

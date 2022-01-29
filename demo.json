@@ -1,0 +1,20 @@
+{
+    "classes": [
+        {
+            "department": "ECEN",
+            "course": "164",
+            "section": "325",
+            "instructor": "Liu",
+            "year": 18,
+            "term": "Spring"
+        },
+        {
+            "department": "ECEN",
+            "course": "158",
+            "section": "340",
+            "instructor": "Liu",
+            "year": 18,
+            "term": "Spring"
+        }
+    ]
+}
